@@ -21,7 +21,10 @@ public class UserDetails {
 	@Produces(MediaType.TEXT_PLAIN)
 	public String getName()
 	{
-		String name ="Jai";
+		String name ="Say Hello";
 		return name;
 	}
+	
+	
+	
 }
